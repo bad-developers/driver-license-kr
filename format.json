@@ -1,0 +1,41 @@
+{
+  "table": {
+    "questionType": [
+      "Sentence type 1 answer",
+      "Sentence type 2 answers",
+      "Safety sign type",
+      "Image type",
+      "Illustration type",
+      "Video type"
+    ],
+    "questionList": [
+      {
+        "question": {
+          "id": 1,
+          "text": "asdf",
+          "type": "questionType",
+          "media": ""
+        },
+        "answerList": [
+          {
+            "id": 1,
+            "text": "D"
+          },
+          {
+            "id": 2,
+            "text": "K"
+          },
+          {
+            "id": 3,
+            "text": "M"
+          },
+          {
+            "id": 4,
+            "text": "Lom dom"
+          }
+        ],
+        "correctAnswer": "1,2"
+      }
+    ]
+  }
+}
