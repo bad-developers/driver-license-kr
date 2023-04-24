@@ -6355,9 +6355,9 @@ QAA5.Chú ý tình huống phía đường bên trái và phải của đường
 
 %%%
 
-AAAĐèn vàng nhấp nháy ở đường giao nhau 
-AAAXe tải rẽ trái ở đường giao nhau 
-AAAXe môtô hai bánh dừng ở phía đường bên phải
+DDDĐèn vàng nhấp nháy ở đường giao nhau 
+DDDXe tải rẽ trái ở đường giao nhau 
+DDDXe môtô hai bánh dừng ở phía đường bên phải
 AAAĐáp án đúng : 1, 5
 %%%
 
@@ -6367,9 +6367,9 @@ QAA2.Có khả năng người điều khiển xe đạp băng qua đường sai 
 QAA3.Vì xe đạp cũng là xe nên phỏng đoán xe đạp đã dừng ở vị trí hiện tại đó nên cứ thế băng qua đường giao nhau.
 QAA4.Liên tục nhấn còi cảnh báo để người điều khiển xe đạp không thể có hành động nguy hiểm và nhanh chóng băng qua.
 QAA5.Vì người điều khiển xe đạp đang ở dưới lòng đường nên đảm bảo khoảng cách an toàn và đi qua bên cạnh.
-AAANgười điều khiển đang chạy xe đạp tiến vào làn đường
-AAAĐèn xanh của xe phía trước
-AAATốc độ lưu thông là 40km/giờ
+DDDNgười điều khiển đang chạy xe đạp tiến vào làn đường
+DDDĐèn xanh của xe phía trước
+DDDTốc độ lưu thông là 40km/giờ
 AAAĐáp án đúng : 2, 5
 %%%
 
@@ -6379,9 +6379,9 @@ QAA2.Xe màu trắng ở làn đường số 2 có thể đột ngột đổi qu
 QAA3.Xuất hiện người đi bộ băng qua đường sai luật từ chân cầu.
 QAA4.Tạm dừng để đảm bảo an toàn cho người đi bộ qua đường chậm trên vạch sang đường dành cho người đi bộ.
 QAA5.Xe phía sau vượt lên trước xe của mình.
-AAAĐường có lắp đặt chân cầu
-AAATình huống các xe đang dừng có thể chạy khi đèn giao thông bật xanh
-AAAĐoạn đường giao tín hiệu 3 chiều
+DDDĐường có lắp đặt chân cầu
+DDDTình huống các xe đang dừng có thể chạy khi đèn giao thông bật xanh
+DDDĐoạn đường giao tín hiệu 3 chiều
 AAAĐáp án đúng : 2, 3
 %%%
 
@@ -6391,9 +6391,9 @@ QAA2.Duy trì khoảng cách nhất định vì taxi có thể dừng gấp đ�
 QAA3.Đi vào giữa làn đường 1 và 2 vì taxi và xe ô tô con ở làn đường số 1 có thể làm hạn chế tầm nhìn phía trước.
 QAA4.Chuyển gấp sang làn số 1 vì taxi có thể dừng lại để đón khách.
 QAA5.Giảm tốc đi theo sau taxi vì taxi có thể sẽ giảm tốc để rẽ phải.
-AAATaxi và xe ô tô con đi song song ở làn số 1 và 2. 
-AAAXe của bạn đi phía sau taxi 
-AAANgười đi bộ trên vỉa hè vẫy tay.
+DDDTaxi và xe ô tô con đi song song ở làn số 1 và 2. 
+DDDXe của bạn đi phía sau taxi 
+DDDNgười đi bộ trên vỉa hè vẫy tay.
 AAAĐáp án đúng : 2, 5
 %%%
 
@@ -6403,10 +6403,10 @@ QAA2.Nguy cơ va chạm với xe phía sau.
 QAA3.Xe tải tạm dừng trước lối sang đường để bảo vệ người đi bộ.
 QAA4.Nguy cơ va chạm với xe đi thẳng ngược chiều.
 QAA5.Xe ô tô con đi sau vượt lên trước.
-AAAĐèn phía trước màu xanh 
-AAACó người đang sang đường ở đường bên trái 
-AAAXe ở đằng sau phía xa nhìn từ kính chiếu hậu
-AAAXe ô tô con phía trước đi thẳng
+DDDĐèn phía trước màu xanh 
+DDDCó người đang sang đường ở đường bên trái 
+DDDXe ở đằng sau phía xa nhìn từ kính chiếu hậu
+DDDXe ô tô con phía trước đi thẳng
 AAAĐáp án đúng : 3, 4
 %%%
 
@@ -6416,8 +6416,8 @@ QAA2.Nhanh chóng rẽ phải để lấy lại tầm nhìn bị xe buýt chắn
 QAA3.Lấn vạch phân cách giữa đường để rẽ phải phòng trường hợp xe buýt có thể đột ngột khởi động xuất phát.
 QAA4.Chú ý quan sát vì những người mới xuống xe buýt có thể đột ngột sang đường ở phía trước xe buýt.
 QAA5.Những người mới xuống xe buýt có thể sang đường tại phần đường phía sau xe buýt nên phải rẽ phải bằng làn đường ngược lại.
-AAAĐèn tín hiệu giao thông đang là màu xanh 
-AAANhững người đã xuống xe buýt
+DDDĐèn tín hiệu giao thông đang là màu xanh 
+DDDNhững người đã xuống xe buýt
 AAAĐáp án đúng : 1, 4
 %%%
 
@@ -6427,12 +6427,12 @@ QAA2.Xe ô tô con ở đường bên phải đang rẽ phải
 QAA3.Xe ô tô con đang chờ rẽ trái
 QAA4.Xe ô tô con đi sau nhìn thấy qua kính chiếu hậu
 QAA5.Xe mô tô hai bánh đi ở làn số 3
-AAAXe tải trước mặt đang định rẽ trái 
-AAAXe ô tô con ở đường bên phải định rẽ phải 
-AAAXe ô tô con đang đợi để rẽ trái 
-AAAXe bạn đi ở làn số 2 
-AAAXe mô tô hai bánh đang đi ở làn số 3 
-AAAXe ô tô con đi sau ở phía xa nhìn từ kính chiếu hậu
+DDDXe tải trước mặt đang định rẽ trái 
+DDDXe ô tô con ở đường bên phải định rẽ phải 
+DDDXe ô tô con đang đợi để rẽ trái 
+DDDXe bạn đi ở làn số 2 
+DDDXe mô tô hai bánh đang đi ở làn số 3 
+DDDXe ô tô con đi sau ở phía xa nhìn từ kính chiếu hậu
 AAAĐáp án đúng : 1, 5
 %%%
 
@@ -6442,9 +6442,9 @@ QAA2.Vì để ý xe sau nên xe bạn có khả năng vi phạm đèn tín hi�
 QAA3.Xe sau vượt lên trước.
 QAA4.Xe ở phía bên phải có thể đi chen vào phía sau xe mình.
 QAA5.Xe đang chờ tín hiệu đèn ở đường bên phải đột ngột quay đầu.
-AAAXe ô tô con ở đường bên phải đang đợi tín hiệu đèn 
-AAAXe taxi đi sau theo sát xe bạn 
-AAAXe bạn đang đi ở làn số 2
+DDDXe ô tô con ở đường bên phải đang đợi tín hiệu đèn 
+DDDXe taxi đi sau theo sát xe bạn 
+DDDXe bạn đang đi ở làn số 2
 AAAĐáp án đúng : 1, 2
 %%%
 
@@ -6454,7 +6454,7 @@ QAA2.B phỏng đoán xe sẽ lưu thông theo hướng bên trái nên cứ th�
 QAA3.Dừng lại cho đến khi B băng qua đường xong để không cản trở việc băng qua đường của B.
 QAA4.Ở nơi không phải là đường đi thì xe được ưu tiên lưu thông nên nhấn còi để B không thể băng qua đường.
 QAA5.Nếu đi qua bên cạnh B thì phải đi chậm và giữ khoảng cách an toàn.
-AAAĐang đi vào bãi đỗ xe của chung cư
+DDDĐang đi vào bãi đỗ xe của chung cư
 AAAĐáp án đúng : 3, 5
 %%%
 
@@ -6464,8 +6464,8 @@ QAA2.Đằng sau xe ô tô chở khách ở làn 1 hướng ngược chiều có
 QAA3.Người đi bộ có thể sang đường qua lối sang đường ở bên trái.
 QAA4.Xe ở đằng sau đột nhiên quay đầu trái phép.
 QAA5.Xe chở khách ở làn 1 hướng ngược chiều có thể rẽ trái tại khu vực không có đèn bảo vệ rẽ trái.
-AAAĐèn tín hiệu đang màu xanh (2 hướng đều màu xanh) 
-AAAXe ô tô chở khách ngược chiều ở làn 1 đang rẽ trái
+DDDĐèn tín hiệu đang màu xanh (2 hướng đều màu xanh) 
+DDDXe ô tô chở khách ngược chiều ở làn 1 đang rẽ trái
 AAAĐáp án đúng : 1, 3
 %%%
 
@@ -6475,10 +6475,10 @@ QAA2.Đang đi với tốc độ nhanh, nếu đèn chuyển màu vàng thì r�
 QAA3.Không biết lúc nào đèn chuyển vàng nên tăng tốc để đi qua thật nhanh trước khi đèn chuyển vàng.
 QAA4.Xe sau có thể đang đi tới gần, cần tăng tốc để đi qua đường giao nhau thật nhanh.
 QAA5.Xe đang ở làn 1 có thể chuyển sang làn 2, cần giảm tốc độ để đối phó với tình huống này.
-AAAĐang định đi thẳng qua đường giao nhau 
-AAAĐèn tín hiệu phía trước màu xanh nhưng không biết lúc nào có thể chuyển sang vàng 
-AAAỞ làn 1 phía bên trái có xe chuẩn bị rẽ trái 
-AAAXe đang đi với tốc độ 70km/giờ
+DDDĐang định đi thẳng qua đường giao nhau 
+DDDĐèn tín hiệu phía trước màu xanh nhưng không biết lúc nào có thể chuyển sang vàng 
+DDDỞ làn 1 phía bên trái có xe chuẩn bị rẽ trái 
+DDDXe đang đi với tốc độ 70km/giờ
 AAAĐáp án đúng : 2, 5
 %%%
 
@@ -6488,9 +6488,9 @@ QAA2.Bật đèn xi nhan bên trái trước điểm định đổi làn từ 30
 QAA3.Chú ý quan sát xem có người đi bộ qua đường tại lối sang đường cho người đi bộ phía trước hay không.
 QAA4.Đi lấn qua vạch phân vùng an toàn để đổi sang làn số 1.
 QAA5.Chú ý quan sát bằng gương chiếu hậu bên trái xem có xe từ phía sau tiến lên vạch phân vùng an toàn hay không.
-AAAĐèn tín hiệu giao thông cho phép rẽ trái tại đường giao nhau 
-AAAĐịnh đi vào làn số 1 để quay đầu xe 
-AAACho phép quay đầu xe và rẽ trái tại làn 1
+DDDĐèn tín hiệu giao thông cho phép rẽ trái tại đường giao nhau 
+DDDĐịnh đi vào làn số 1 để quay đầu xe 
+DDDCho phép quay đầu xe và rẽ trái tại làn 1
 AAAĐáp án đúng : 2, 5
 %%%
 
@@ -6500,10 +6500,10 @@ QAA2.Vì là tình huống xe buýt đưa đón trẻ phanh và giảm tốc, n�
 QAA3.Chú ý Kickboard điện ở làn đường số 3, đổi làn đường và vượt lên trước ở phía bên phải.
 QAA4.Vì là tình huống không nhìn thấy phía trước xe buýt đưa đón trẻ, nên không đổi làn đường mà giảm tốc và duy trì khoảng cách an toàn.
 QAA5.Nhấn còi để thông báo cho người điều khiển xe buýt đưa đón trẻ đang vi phạm tốc độ tối thiểu.
-AAAXe buýt đưa đón trẻ đang chở trẻ trên xe và chạy với vận tốc 35km/giờ
-AAAXe buýt đưa đón trẻ không bật đèn xi nhan chỉ hướng
-AAAXe buýt đưa đón trẻ đang bật đèn nhấp nháy vàng, đèn phanh
-AAAKickboard điện đang lưu thông trên làn đường số 3
+DDDXe buýt đưa đón trẻ đang chở trẻ trên xe và chạy với vận tốc 35km/giờ
+DDDXe buýt đưa đón trẻ không bật đèn xi nhan chỉ hướng
+DDDXe buýt đưa đón trẻ đang bật đèn nhấp nháy vàng, đèn phanh
+DDDKickboard điện đang lưu thông trên làn đường số 3
 AAAĐáp án đúng : 1, 4
 %%%
 
@@ -6513,8 +6513,8 @@ QAA2.Xe đi vào làn số 2 bên trái có thể rẽ phải.
 QAA3.Có thể xảy ra va chạm với xe rẽ phải từ hướng đối diện.
 QAA4.Có thể xảy ra va chạm với xe rẽ trái trước ở hướng đối diện.
 QAA5.Có thể xảy ra va chạm với xe sắp rẽ phải từ phía sau, bên phải.
-AAAĐèn tín hiệu chuyển màu vàng sau khi xe vừa vào đường giao nhau.
-AAAĐang điều khiển xe với vận tốc 55km/giờ
+DDDĐèn tín hiệu chuyển màu vàng sau khi xe vừa vào đường giao nhau.
+DDDĐang điều khiển xe với vận tốc 55km/giờ
 AAAĐáp án đúng : 1, 4
 %%%
 
@@ -6524,8 +6524,8 @@ QAA2.Báo với Đồn cảnh sát hoặc Sở Cảnh sát về sự cố đèn 
 QAA3.Có thể duy trì tốc độ điều khiển xe để nhanh chóng đi qua đường giao nhau do đèn tín hiệu hỏng.
 QAA4.Quay đầu xe vì không thể vượt qua đường giao nhau khi đèn tín hiệu hỏng.
 QAA5.Nháy đèn trước rồi đi qua nếu thấy có xe có ý định tiến vào trước.
-AAAĐèn tín hiệu giao thông bị hỏng
-AAAĐiều khiển xe trên làn xe số 2
+DDDĐèn tín hiệu giao thông bị hỏng
+DDDĐiều khiển xe trên làn xe số 2
 AAAĐáp án đúng : 1, 2
 %%%
 
@@ -6535,9 +6535,9 @@ QAA2.Các xe khác ở làn đường bên trái của đường giao nhau có t
 QAA3.Tăng tốc để đi qua đoạn đường giao nhau có tín hiệu đèn.
 QAA4.Bắt buộc phải tạm dừng lại trước khi đi qua vạch sang đường dành cho người đi bộ.
 QAA5.Người đi bộ có thể đột ngột chạy ra nên phải chú ý quan sát khi điều khiển xe.
-AAAXe trắng phía trước đang tạm dừng
-AAAĐường giao nhau có tín hiệu đèn 
-AAAVạch sang đường dành cho người đi bộ
+DDDXe trắng phía trước đang tạm dừng
+DDDĐường giao nhau có tín hiệu đèn 
+DDDVạch sang đường dành cho người đi bộ
 AAAĐáp án đúng : 1, 5
 %%%
 
@@ -6547,10 +6547,10 @@ QAA2.Trường hợp định rẽ phải, bắt buộc phải tạm dừng ở t
 QAA3.Trường hợp định đi thẳng, được ưu tiên hơn xe khác nên đi chậm và tiến vào.
 QAA4.Trường hợp định đi thẳng và rẽ phải, tất cả phải tạm dừng rồi mới tiến vào.
 QAA5.Chỉ trường hợp định rẽ phải mới tạm dừng rồi tiến vào.
-AAAĐường giao nhau hình chữ “ㅏ” trong khu vực bảo vệ trẻ em
-AAAĐường giao nhau không có điều khiển giao thông
-AAAĐường giao nhau không xác định trái phải
-AAAVạch sang đường dành cho người đi bộ không có người đi bộ đang băng qua
+DDDĐường giao nhau hình chữ “ㅏ” trong khu vực bảo vệ trẻ em
+DDDĐường giao nhau không có điều khiển giao thông
+DDDĐường giao nhau không xác định trái phải
+DDDVạch sang đường dành cho người đi bộ không có người đi bộ đang băng qua
 AAAĐáp án đúng : 2, 4
 %%%
 
@@ -6560,8 +6560,8 @@ QAA2.Bật đèn xi nhan chỉ hướng bên trái và tiến vào sân đỗ xe
 QAA3.Bật đèn xi nhan chỉ hướng bên phải và đi theo hướng 12 giờ.
 QAA4.Nếu đã bỏ lỡ cơ hội đi ra khỏi vòng xuyến thì đi thêm một vòng rồi tiến ra khỏi vòng xuyến.
 QAA5.Vì là tình huống định đi thẳng theo hướng 12 giờ nên không cần bật đèn xi nhan chỉ hướng.
-AAAĐang chạy trong vòng xuyến
-AAATình huống tiến vào vòng xuyến từ phía bên phải 
+DDDĐang chạy trong vòng xuyến
+DDDTình huống tiến vào vòng xuyến từ phía bên phải 
 AAAĐáp án đúng : 3, 4
 %%%
 
@@ -6571,9 +6571,9 @@ QAA2.Người đi bộ đã sang đường nên giữ nguyên tốc độ và đ
 QAA3.Cần giảm tốc độ vì không thể phán đoán tình huống đường phía trước do có ánh đèn.
 QAA4.Có người đang sang đường nên phanh gấp.
 QAA5.Xe sau đang đi tới nên bật đèn khẩn cấp.
-AAAXe dừng ở phía đường ngược chiều 
-AAANgười đi bộ đang sang đường 
-AAAHình ảnh xe đi sau trong kính chiếu hậu
+DDDXe dừng ở phía đường ngược chiều 
+DDDNgười đi bộ đang sang đường 
+DDDHình ảnh xe đi sau trong kính chiếu hậu
 AAAĐáp án đúng : 3, 5
 %%%
 
@@ -6583,9 +6583,9 @@ QAA2.Xe bên trái đường đang chuẩn bị rẽ phải.
 QAA3.Xe phía trước đột ngột chuẩn bị rẽ phải.
 QAA4.Xe ô tô con phía sau chuẩn bị dừng bên lề đường.
 QAA5.Xe mô tô hai bánh bên phải đường đột ngột rẽ trái không đúng quy định.
-AAACó đường nhỏ hai bên phải trái. 
-AAACó xe môtô hai bánh đang chạy phía trước bên phải. 
-AAAXe ô tô con ở đường bên trái
+DDDCó đường nhỏ hai bên phải trái. 
+DDDCó xe môtô hai bánh đang chạy phía trước bên phải. 
+DDDXe ô tô con ở đường bên trái
 AAAĐáp án đúng : 2, 5
 %%%
 
@@ -6595,10 +6595,10 @@ QAA2.Người bắt taxi đang đứng phía trước bên phải có thể đi 
 QAA3.Xe taxi có thể bất ngờ chuyển từ làn số 2 sang làn số 3 để bắt khách, cần giảm tốc độ để ứng phó.
 QAA4.Xe taxi có thể bất ngờ chuyển từ làn số 2 sang làn số 3 để bắt khách nên cần thu hẹp khoảng cách với xe trước.
 QAA5.Xe taxi có thể chuyển hướng từ làn số 2 sang làn số 3, cần nhanh chóng tránh vào làn số 2.
-AAAĐường có 3 làn đường mỗi chiều 
-AAABên phải phía trước có người định bắt taxi 
-AAAPhía trước bên trái có xe taxi đang đi 
-AAAXe bạn đang đi với vận tốc 60km/giờ
+DDDĐường có 3 làn đường mỗi chiều 
+DDDBên phải phía trước có người định bắt taxi 
+DDDPhía trước bên trái có xe taxi đang đi 
+DDDXe bạn đang đi với vận tốc 60km/giờ
 AAAĐáp án đúng : 1, 3
 %%%
 
@@ -6608,8 +6608,8 @@ QAA2.Sử dụng còi để báo hiệu xe của bản thân đang tới rồi c
 QAA3.Giảm tốc độ vì trẻ em có thể đột ngột đi ra giữa đường.
 QAA4.Tăng tốc tránh xe đạp và nhanh chóng vượt qua.
 QAA5.Dùng đèn trước báo hiệu có xe đang đến để các xe theo chiều ngược lại chú ý.
-AAACác em bé đang định băng qua đường
-AAANgười đi xe đạp đang đi dạo cùng thú cưng
+DDDCác em bé đang định băng qua đường
+DDDNgười đi xe đạp đang đi dạo cùng thú cưng
 AAAĐáp án đúng : 1, 3
 %%%
 
@@ -6619,8 +6619,8 @@ QAA2.Xe đang đỗ có thể bất thình lình xuất phát nên phải chú �
 QAA3.Không nhất thiết phải tuân thủ theo ký hiệu trên mặt đường trong bãi đỗ xe tầng hầm.
 QAA4.Chỉ chú ý quan sát khu vực mà xe mình có thể đỗ xe vào.
 QAA5.Các cột trong bãi đỗ xe tầng hầm gây cản trở tầm nhìn nên phải vừa nhấn còi vừa điều khiển xe. 
-AAABãi đỗ xe tầng hầm
-AAANgười đi bộ đang đi trong bãi đỗ xe tầng hầm
+DDDBãi đỗ xe tầng hầm
+DDDNgười đi bộ đang đi trong bãi đỗ xe tầng hầm
 AAAĐáp án đúng : 1, 2
 %%%
 
@@ -6630,9 +6630,9 @@ QAA2.Xe tải đi ngược chiều đang giảm tốc độ để rẽ phải.
 QAA3.Người lái xe của xe đang dừng phía trước đột ngột mở cửa xe và đi xuống.
 QAA4.Phía đường bên tay trái đột ngột có xe rẽ phải đi ra.
 QAA5.Xe ở đằng sau đột ngột dừng xe vào bên phải.
-AAANhiều người đứng ở đường bên trái ngược chiều 
-AAAXe tải chạy ngược chiều đang giảm tốc độ 
-AAAXe cùng chiều phía trước bật đèn xi nhan bên phải và dừng
+DDDNhiều người đứng ở đường bên trái ngược chiều 
+DDDXe tải chạy ngược chiều đang giảm tốc độ 
+DDDXe cùng chiều phía trước bật đèn xi nhan bên phải và dừng
 AAAĐáp án đúng : 3, 4
 %%%
 
@@ -6642,9 +6642,9 @@ QAA2.Xe phía trước xe tải xuất phát.
 QAA3.Xe đạp ở đường ngược chiều bên trái có thể rẽ trái.
 QAA4.Trẻ em đang chơi ở ngay đằng sau xe A.
 QAA5.Xe đang đỗ bên trái phía ngược chiều rẽ phải.
-AAAXe đang đỗ thành hàng bên tay phải 
-AAAĐường bên trái phía trước hẹp 
-AAAXe đỗ ở phía trước bên trái, xa
+DDDXe đang đỗ thành hàng bên tay phải 
+DDDĐường bên trái phía trước hẹp 
+DDDXe đỗ ở phía trước bên trái, xa
 AAAĐáp án đúng : 1, 4
 %%%
 
@@ -6654,9 +6654,9 @@ QAA2.Nghĩ rằng xe ở phía đường bên trái còn ở xa nên cứ rẽ p
 QAA3.Khi đang rẽ phải, có thể va chạm với xe ở đường bên phải trước mặt.
 QAA4.Đang rẽ phải thì phải dừng do gặp xe phía bên tay trái đi tới trong khi xe sau lại vượt lên và có thể xảy ra va chạm.
 QAA5.Rẽ phải và có thể va chạm với người đi bộ đang đi trên vỉa hè phía trước bên tay phải.
-AAAĐường bên phải có xe ô tô con và xe môtô hai bánh 
-AAAĐường bên trái phía xa có xe ô tô đang đi tới 
-AAANgười đi bộ trên vỉa hè bên phải phía trước
+DDDĐường bên phải có xe ô tô con và xe môtô hai bánh 
+DDDĐường bên trái phía xa có xe ô tô đang đi tới 
+DDDNgười đi bộ trên vỉa hè bên phải phía trước
 AAAĐáp án đúng : 1, 2
 %%%
 
@@ -6666,8 +6666,8 @@ QAA2.Có xe đạp đi ra đột ngột từ góc cua của tòa nhà bên phả
 QAA3.Rẽ phải và va chạm với xe đang đi vào.
 QAA4.Có thể gặp người đi bộ đang chạy qua đường.
 QAA5.Có thể va chạm với xe đi thẳng từ phải qua trái.
-AAACó người đi bộ chuẩn bị sang đường tại lối sang đường. 
-AAABạn đang điều khiển xe với tốc độ 30km/giờ
+DDDCó người đi bộ chuẩn bị sang đường tại lối sang đường. 
+DDDBạn đang điều khiển xe với tốc độ 30km/giờ
 AAAĐáp án đúng : 2, 4
 %%%
 
@@ -6677,9 +6677,9 @@ QAA2.Xe tải phía đối diện có thể tăng tốc độ.
 QAA3.Xe tải phía đối diện có thể quay đầu.
 QAA4.Có thể đâm vào người đi bộ đang qua đường ở phía sau xe phía đối diện.
 QAA5.Có người đi bộ chạy qua đường tại lối sang đường bên phải, phía sau.
-AAANgười đi bộ đang sang đường tại lối sang đường. 
-AAAĐang chuẩn bị xuất phát sau khi đã tạm dừng. 
-AAACó người đi bộ bên phải phía sau.
+DDDNgười đi bộ đang sang đường tại lối sang đường. 
+DDDĐang chuẩn bị xuất phát sau khi đã tạm dừng. 
+DDDCó người đi bộ bên phải phía sau.
 AAAĐáp án đúng : 4, 5
 %%%
 
@@ -6689,10 +6689,10 @@ QAA2.Đạp nhiều lần lên chân phanh để dừng xe.
 QAA3.Có thể có va chạm nên chuyển sang làn số 1 rồi cứ thế đi.
 QAA4.Phanh gấp và dừng lại.
 QAA5.Vì trời mưa nên giữ chặt tay lái và tiếp tục hướng đi.
-AAAĐường mỗi chiều 2 làn xe 
-AAAĐèn tín hiệu cho xe màu xanh 
-AAAXe đang phanh
-AAANgười đi bộ dùng ô đang đi sang đường
+DDDĐường mỗi chiều 2 làn xe 
+DDDĐèn tín hiệu cho xe màu xanh 
+DDDXe đang phanh
+DDDNgười đi bộ dùng ô đang đi sang đường
 AAAĐáp án đúng : 2, 5
 %%%
 
@@ -6702,8 +6702,8 @@ QAA2.Khi muốn tiến vào vòng xuyến phải đi chậm lại hoặc tạm d
 QAA3.Xe tiến vào có quyền ưu tiên nên cần rẽ nhanh vào để đến điểm đến.
 QAA4.Khi tiến vào vòng xuyến, phải tiến nhanh vào trước xe đang chạy trong vòng xuyến.
 QAA5.Không cần chú ý đến sự di chuyển của các xe xung quanh.
-AAAVòng xuyến
-AAAXe tiến vào và xe đang chạy trong vòng xuyến 
+DDDVòng xuyến
+DDDXe tiến vào và xe đang chạy trong vòng xuyến 
 AAAĐáp án đúng : 1, 2
 %%%
 
@@ -6713,8 +6713,8 @@ QAA2.Xảy ra va chạm với xe ở đường bên phải định rẽ trái.
 QAA3.Va chạm với xe đi cạnh xe buýt đang đi thẳng ở làn số 1.
 QAA4.Va chạm với xe đi ngược chiều ở làn số 1 rẽ trái.
 QAA5.Va chạm với xe ở làn số 2 ngược chiều đang định đi thẳng.
-AAAĐường giao nhau có đèn tín hiệu 
-AAALối sang đường dành cho người đi bộ ở bên trái
+DDDĐường giao nhau có đèn tín hiệu 
+DDDLối sang đường dành cho người đi bộ ở bên trái
 AAAĐáp án đúng : 1, 4
 %%%
 
@@ -6724,10 +6724,10 @@ QAA2.Xảy ra va chạm trực diện với xe đang đi tới ở đường ng�
 QAA3.Xảy ra va chạm với xe đi ra từ đường chưa trải nhựa đang lấn vạch phân cách giữa đường để rẽ trái.
 QAA4.Va chạm với máy cày đang định rẽ phải sang đường chưa trải nhựa.
 QAA5.Va chạm với xe phía sau.
-AAAXe máy cày phía trước rẽ phải. 
-AAAXe ô tô con ở đường chưa trải nhựa phía bên phải đang định rẽ trái 
-AAANgười đi bộ bên phải phía trước 
-AAAXe ô tô con đi ngược chiều
+DDDXe máy cày phía trước rẽ phải. 
+DDDXe ô tô con ở đường chưa trải nhựa phía bên phải đang định rẽ trái 
+DDDNgười đi bộ bên phải phía trước 
+DDDXe ô tô con đi ngược chiều
 AAAĐáp án đúng : 2, 3
 %%%
 
@@ -6737,7 +6737,7 @@ QAA2.Va chạm xảy ra khi xe A xuất phát còn xe phía sau tăng tốc vư�
 QAA3.Xe A đâm vào xe đang rẽ phải phía trước.
 QAA4.Xe A đâm vào xe đang bật đèn xi nhan đợi rẽ phải ở đường bên phải.
 QAA5.Xe A xuất phát đâm thẳng vào xe rẽ trái ở hướng đối diện.
-AAAĐường giao nhau không có đèn tín hiệu
+DDDĐường giao nhau không có đèn tín hiệu
 AAAĐáp án đúng : 2, 5
 %%%
 
@@ -6747,9 +6747,9 @@ QAA2.Va chạm với xe ở đường ngược chiều phía đường giao nhau
 QAA3.Va chạm với người đi bộ trên vỉa hè đối diện.
 QAA4.Va chạm với xe ở đường bên phải đang rẽ trái khi đèn tín hiệu ở đường giao nhau phía trước đổi màu.
 QAA5.Va chạm với xe đi sau nếu dừng đột ngột trước đường giao nhau khi tín hiệu đèn đổi màu.
-AAAĐường xuống dốc mỗi chiều có 1 làn đường 
-AAAPhía cuối đường dốc là đường giao nhau có tín hiệu đèn 
-AAAĐèn xanh
+DDDĐường xuống dốc mỗi chiều có 1 làn đường 
+DDDPhía cuối đường dốc là đường giao nhau có tín hiệu đèn 
+DDDĐèn xanh
 AAAĐáp án đúng : 4, 5
 %%%
 
@@ -6759,9 +6759,9 @@ QAA2.Đề phòng có xe định vượt lên trước xe đang dừng ở đư�
 QAA3.Để tránh va chạm với người đi bộ đang đứng trước cửa hàng bên phải, cần đi nhanh hướng về vạch phân cách giữa đường.
 QAA4.Chú ý người lái xe tải đang dừng ở đường ngược chiều có thể đột ngột sang đường.
 QAA5.Rất khó để quan sát các tình huống nguy hiểm ở đường vòng, cần nhanh chóng đi qua.
-AAAĐường vòng về phía bên trái, đường có 1 làn mỗi chiều 
-AAAXe tải đi ngược chiều đang dừng 
-AAACửa hàng phía trước bên phải
+DDDĐường vòng về phía bên trái, đường có 1 làn mỗi chiều 
+DDDXe tải đi ngược chiều đang dừng 
+DDDCửa hàng phía trước bên phải
 AAAĐáp án đúng : 2, 4
 %%%
 
@@ -6771,9 +6771,9 @@ QAA2.Xảy ra va chạm với xe đi ngược chiều.
 QAA3.Trẻ em có thể chạy ra từ trong các xe đang đỗ bên đường.
 QAA4.Xe đi ngược chiều có thể dừng lại phía bên tay trái.
 QAA5.Có thể có người đi bộ đi ra từ tòa nhà phía bên tay trái.
-AAAĐường mỗi chiều có 1 làn đường 
-AAABạn đang lấn vạch phân cách giữa đường do các xe đang đỗ 
-AAAXe đi với tốc độ 40km/giờ
+DDDĐường mỗi chiều có 1 làn đường 
+DDDBạn đang lấn vạch phân cách giữa đường do các xe đang đỗ 
+DDDXe đi với tốc độ 40km/giờ
 AAAĐáp án đúng : 2, 3
 %%%
 
@@ -6783,8 +6783,8 @@ QAA2.Chỉ cần chú ý phía trước khi điều khiển xe.
 QAA3.Xe chở hàng ở làn đường số 1 đang tiến vào đường giao nhau có thể đổi sang làn đường số 2 nên phải đề phòng trước.
 QAA4.Xe ở hai phía trái phải có thể tiến vào nên phải chú ý khi điều khiển xe.
 QAA5.Điều khiển xe với suy nghĩ rằng xe tiến vào được ưu tiên hơn xe rẽ.
-AAAVòng xuyến
-AAAXe chở hàng máu trắng định tiến vào vòng xuyến 
+DDDVòng xuyến
+DDDXe chở hàng máu trắng định tiến vào vòng xuyến 
 AAAĐáp án đúng : 3, 4
 %%%
 
@@ -6794,7 +6794,7 @@ QAA2.Có người định sang đường từ phía đường đối diện.
 QAA3.Có người đi bộ sang đường không đúng chỗ quy định phía sau xe.
 QAA4.Xe phía sau đang bật đèn báo rẽ và định rẽ phải
 QAA5.Có người lái xe ở trong xe đang đỗ bên tay phải.
-AAAKhi đang điều khiển xe với vận tốc 50km/giờ
+DDDKhi đang điều khiển xe với vận tốc 50km/giờ
 AAAĐáp án đúng : 1, 2
 %%%
 
@@ -6804,9 +6804,9 @@ QAA2.Phanh gấp, giảm tốc độ rồi đi vào làn số 1.
 QAA3.Đi ngay vào làn số 1 và giảm khoảng cách với xe trước.
 QAA4.Tăng tốc và vượt qua xe trước.
 QAA5.Mặt đường bị trơn nên cẩn thận tay lái.
-AAAĐèn tín hiệu ở đường giao nhau màu xanh
-AAATrên đường có các tấm sắt của công trường thi công
-AAAVì có công trường nên chỉ còn 1 làn đường mỗi chiều
+DDDĐèn tín hiệu ở đường giao nhau màu xanh
+DDDTrên đường có các tấm sắt của công trường thi công
+DDDVì có công trường nên chỉ còn 1 làn đường mỗi chiều
 AAAĐáp án đúng : 1, 5
 %%%
 
@@ -6816,9 +6816,9 @@ QAA2.Xe đi phía sau
 QAA3.Xe đi phía trước
 QAA4.Đoạn đường có bóng râm dưới gầm cầu
 QAA5.Xe taxi phía trước đang đi vào đường đang chạy
-AAAXe đang đi dưới gầm cầu vượt 
-AAAĐường có nhiều chỗ bị ướt 
-AAACó taxi đang đi vào đường
+DDDXe đang đi dưới gầm cầu vượt 
+DDDĐường có nhiều chỗ bị ướt 
+DDDCó taxi đang đi vào đường
 AAAĐáp án đúng : 4, 5
 %%%
 
@@ -6828,9 +6828,9 @@ QAA2.Xảy ra va chạm với xe phía sau sau khi phanh gấp để chuyển l�
 QAA3.Khi đột ngột chuyển làn sang bên phải, có thể va chạm với xe đang đi bên phải phía sau.
 QAA4.Đi với tốc độ thấp hơn tốc độ tối thiểu nên va chạm với xe ở làn 1.
 QAA5.Đi quá nhanh va chạm với xe ở làn số 2 đường ngược chiều.
-AAACây xăng phía trước
-AAAXe đi phía sau bên phải
-AAAXe ô tô con đi sau
+DDDCây xăng phía trước
+DDDXe đi phía sau bên phải
+DDDXe ô tô con đi sau
 AAAĐáp án đúng : 2, 3
 %%%
 
@@ -6840,9 +6840,9 @@ QAA2.Khi đang đi thẳng thì xe ở đằng sau rẽ phải.
 QAA3.Khi đang rẽ phải thì xe ô tô con ở làn 2 đường ngược chiều đi thẳng.
 QAA4.Khi đang đi thẳng thì xe ô tô con ở làn số 1 sau xe tải rẽ trái vào khu chung cư.
 QAA5.Khi đang rẽ phải thì xe tải ngược chiều đi thẳng.
-AAAĐường giao nhau không có đèn tín hiệu 
-AAAPhía trước là lối vào khu chung cư bên phải
-AAAXe tải đi ngược chiều
+DDDĐường giao nhau không có đèn tín hiệu 
+DDDPhía trước là lối vào khu chung cư bên phải
+DDDXe tải đi ngược chiều
 AAAĐáp án đúng : 1, 4
 %%%
 
@@ -6852,8 +6852,8 @@ QAA2.Vì xe tải có thể đi rẽ sang đường bên trái.
 QAA3.Vì xe phía sau có thể đi chậm.
 QAA4.Vì không thể nhìn thấy được xe đi ra từ đường ngược chiều.
 QAA5.Vì xe tải có thể duy trì tốc độ chậm.
-AAAĐường phía trước bên trái 
-AAAĐường ngược chiều bên trái có xe môtô hai bánh đang dừng ở lề đường
+DDDĐường phía trước bên trái 
+DDDĐường ngược chiều bên trái có xe môtô hai bánh đang dừng ở lề đường
 AAAĐáp án đúng : 2, 4
 %%%
 
@@ -6863,9 +6863,9 @@ QAA2.Xe đi phía trước có thể rẽ phải.
 QAA3.Người đi bộ có thể chạy ra từ giữa những xe đi ngược chiều.
 QAA4.Trong số những xe đi ngược chiều có xe lùi lại.
 QAA5.Trong số những xe đi ngược chiều, một xe có thể đang quay đầu trái quy định.
-AAAĐường cong về phía bên trái 
-AAAĐường ngược chiều bị tắc 
-AAAXe đang đi với tốc độ 40km/giờ
+DDDĐường cong về phía bên trái 
+DDDĐường ngược chiều bị tắc 
+DDDXe đang đi với tốc độ 40km/giờ
 AAAĐáp án đúng : 3, 5
 %%%
 
@@ -6875,8 +6875,8 @@ QAA2.Chú ý xe buýt ở làn số 2 phía trước có thể đột ngột tă
 QAA3.Chú ý xe đi đằng sau có thể đổi làn đường.
 QAA4.Phải bật đèn pha khi lái xe vì có thể xảy ra hiện tượng chói mắt do đèn trước của xe đi ngược chiều đến.
 QAA5.Đảm bảo khoảng cách an toàn vì không thể biết được tình hình phía trước, và chú ý đến tính an toàn bằng cách thường xuyên kiểm tra tình hình phía trước.
-AAAMỗi chiều có 3 làn đường 
-AAAXe buýt đang chuẩn bị chuyển từ làn 1 sang làn 2
+DDDMỗi chiều có 3 làn đường 
+DDDXe buýt đang chuẩn bị chuyển từ làn 1 sang làn 2
 AAAĐáp án đúng : 1, 5
 %%%
 
@@ -6886,9 +6886,9 @@ QAA2.Phía trước bên phải có xe đang dừng và đèn phanh sáng.
 QAA3.Xe đột ngột đi ra từ phía đường bên phải.
 QAA4.Trẻ em đang chơi trước cửa hàng văn phòng phẩm.
 QAA5.Trẻ em đang đứng phía trước bên phải và nhìn vào cửa hàng văn phòng phẩm bên trái.
-AAAXe tải trước cửa hàng văn phòng phẩm 
-AAATrẻ em trước cửa hàng văn phòng phẩm 
-AAATrẻ em đứng trước xe
+DDDXe tải trước cửa hàng văn phòng phẩm 
+DDDTrẻ em trước cửa hàng văn phòng phẩm 
+DDDTrẻ em đứng trước xe
 AAAĐáp án đúng : 3, 5
 %%%
 
@@ -6898,8 +6898,8 @@ QAA2.Xe đi phía trước có thể phanh gấp khi thấy đèn tín hiệu gi
 QAA3.Xe đang chạy trên làn số 3 bên phải có thể đột ngột rẽ phải.
 QAA4.Xe đang chạy phía trước có thể chuyển làn xe sang làn số 3.
 QAA5.Phanh gấp khi thấy tín hiệu đèn giao thông thay đổi có thể dẫn đến va chạm với xe chạy phía sau.
-AAAĐiều khiển xe trên làn số 2 tại đoạn đường có 4 làn mỗi chiều, đang tiến đến gần đường giao nhau 
-AAAĐiều khiển xe với vận tốc 70km/giờ
+DDDĐiều khiển xe trên làn số 2 tại đoạn đường có 4 làn mỗi chiều, đang tiến đến gần đường giao nhau 
+DDDĐiều khiển xe với vận tốc 70km/giờ
 AAAĐáp án đúng : 2, 5
 %%%
 
@@ -6909,9 +6909,9 @@ QAA2.Xe đi phía trước có thể quay đầu tại vị trí hiện tại.
 QAA3.Có thể xuất hiện người đi bộ ở phía trước xe đang đạp chân phanh ở phía trước.
 QAA4.Xe phía trước đang đạp chân phanh có thể đổi sang làn xe bên phải đột ngột.
 QAA5.Xe đi trước xe phía trước có thể rẽ phải từ làn xe số 2.
-AAAĐiều khiển xe với vận tốc 20km/giờ 
-AAAĐèn tín hiệu giao thông cho phép đi thẳng và rẽ trái cùng lúc 
-AAAXe trước đang đạp chân phanh
+DDDĐiều khiển xe với vận tốc 20km/giờ 
+DDDĐèn tín hiệu giao thông cho phép đi thẳng và rẽ trái cùng lúc 
+DDDXe trước đang đạp chân phanh
 AAAĐáp án đúng : 2, 3
 %%%
 
@@ -6921,8 +6921,8 @@ QAA2.Sử dụng số cao và đạp mạnh để đi lên.
 QAA3.Nếu có sợi xích chống tuyết thì chỉ cần tăng tốc và đi lên.
 QAA4.Theo dấu bánh xe phía trước đi lên.
 QAA5.Tránh dấu bánh xe phía trước đi lên.
-AAAPhía trước có xe đang lên dốc 
-AAACó vết bánh của xe đi trước
+DDDPhía trước có xe đang lên dốc 
+DDDCó vết bánh của xe đi trước
 AAAĐáp án đúng : 1, 4
 %%%
 
@@ -6932,8 +6932,8 @@ QAA2.Xe đi phía trước bên phải.
 QAA3.Xe đi trong đường hầm.
 QAA4.Mặt đường ngay trước đường hầm.
 QAA5.Xe đi phía sau xe mình.
-AAATuyết rơi phủ vạch phân cách giữa 
-AAALối vào đường hầm có nước chảy và đóng băng
+DDDTuyết rơi phủ vạch phân cách giữa 
+DDDLối vào đường hầm có nước chảy và đóng băng
 AAAĐáp án đúng : 2, 4
 %%%
 
@@ -6943,8 +6943,8 @@ QAA2.Đâm vào xe phía sau đang vượt lên khi đổi làn đường rẽ v
 QAA3.Đâm vào xe đi bên phải phía sau khi đột ngột đổi làn để rẽ vào trạm nghỉ.
 QAA4.Đâm vào xe đi bên phải phía sau khi đột ngột chuyển từ làn số 2 sang làn số 1.
 QAA5.Đâm vào xe đi bên phải phía sau khi đang chạy quá tốc độ trên làn số 2.
-AAATrạm nghỉ phía trước bên phải đường 
-AAAXe đi phía sau bên phải
+DDDTrạm nghỉ phía trước bên phải đường 
+DDDXe đi phía sau bên phải
 AAAĐáp án đúng : 1, 3
 %%%
 
@@ -6954,9 +6954,9 @@ QAA2.Bấm còi liên tục báo hiệu cho xe tải đang dừng và đi qua.
 QAA3.Tạm thời dừng sau xe tải, chờ đến khi xe đó đi trước rồi mới xuất phát.
 QAA4.Trước hoặc xung quanh xe tải có thể có điều gì nguy hiểm nên cần giảm tốc độ và chú ý.
 QAA5.Khi định chuyển làn sang làn số 1, cần quan sát thấy an toàn rồi mới chuyển.
-AAAĐường thẳng mỗi chiều có 2 làn đường 
-AAAXe đang đi ở làn số 1 phía sau 
-AAAPhía trước có xe tải đang dừng
+DDDĐường thẳng mỗi chiều có 2 làn đường 
+DDDXe đang đi ở làn số 1 phía sau 
+DDDPhía trước có xe tải đang dừng
 AAAĐáp án đúng : 4, 5 
 %%%
 
@@ -6966,9 +6966,9 @@ QAA2.Xe buýt ở làn đường số 2 có thể giảm tốc độ để đả
 QAA3.Xe buýt đã đổi qua làn đường số 4 có thể tiếp tục chạy.
 QAA4.Xe ở làn đường số 1 có thể tăng tốc.
 QAA5.Xe khác có thể vượt lên trước xe của mình.
-AAA4 làn đường một chiều
-AAAXe buýt ở làn đường số 3 đang đổi sang làn đường số 4
-AAAĐang thi công một phần đường
+DDD4 làn đường một chiều
+DDDXe buýt ở làn đường số 3 đang đổi sang làn đường số 4
+DDDĐang thi công một phần đường
 AAAĐáp án đúng : 1, 5
 %%%
 
@@ -6978,9 +6978,9 @@ QAA2.Bật đèn xi nhan chỉ hướng bên phải để thông báo cho nhữn
 QAA3.Tăng tốc đột ngột và đổi sang làn đường bên phải.
 QAA4.Đổi làn đường bằng cách giảm tốc độ ngay trước đường ra.
 QAA5.Trong tình huống lo ngại sẽ cản trở lưu thông của xe khác, không được đổi làn đường.
-AAAKhu vực có phân cách đường dành riêng cho xe ô tô
-AAANgười điều khiển ra khỏi đường dành riêng cho xe ô tô và đổi làn đường
-AAAVạch hạn chế đổi làn đường
+DDDKhu vực có phân cách đường dành riêng cho xe ô tô
+DDDNgười điều khiển ra khỏi đường dành riêng cho xe ô tô và đổi làn đường
+DDDVạch hạn chế đổi làn đường
 AAAĐáp án đúng : 2, 5
 %%%
 
@@ -6990,7 +6990,7 @@ QAA2.Lực ly tâm có thể làm xe lệch ra khỏi làn đường nên cần 
 QAA3.Tăng tốc độ thật nhanh để tránh hiện tượng "sóng đứng".
 QAA4.Để đối phó với lực ly tâm, đi gần vào mép làn đường.
 QAA5.Xe đằng sau có thể vượt lên nên cần quan sát kỹ phía sau.
-AAAKhúc cua gấp, mỗi chiều có 2 làn đường
+DDDKhúc cua gấp, mỗi chiều có 2 làn đường
 AAAĐáp án đúng : 1, 2
 %%%
 
@@ -7000,8 +7000,8 @@ QAA2.Phanh gấp đề phòng hiện tượng "trượt nước" khi đi qua vũ
 QAA3.Khi nước đọng bắn lên khiến bạn không thể nhìn thấy phía trước thì đạp mạnh vào chân phanh để giảm tốc độ.
 QAA4.Điều khiển xe chạy qua làn xe 2 vì xe phía đối diện có thể gây bắn nước lên xe bạn.
 QAA5.Nếu gặp vũng nước thì tăng tốc nhanh hơn một chút để đi qua.
-AAATrời mưa, trên đường có những chỗ nước đọng 
-AAAĐiều khiển xe với vận tốc 60km/giờ
+DDDTrời mưa, trên đường có những chỗ nước đọng 
+DDDĐiều khiển xe với vận tốc 60km/giờ
 AAAĐáp án đúng : 1, 4
 %%%
 
@@ -7011,7 +7011,7 @@ QAA2.Trong điều kiện đường có tuyết hoặc đóng băng, vì khoản
 QAA3.Xe đối diện có thể đạp chân phanh để vượt qua vạch kẻ tâm đường nên phải đi qua nhanh chóng.
 QAA4.Đạp mạnh chân phanh để giảm tốc độ trên đoạn đường cua.
 QAA5.Trong điều kiện đường có tuyết hoặc đóng băng, người điều khiển cần giảm tốc độ.
-AAAKhi đang điều khiển xe với vận tốc 30km/giờ
+DDDKhi đang điều khiển xe với vận tốc 30km/giờ
 AAAĐáp án đúng : 1, 5
 %%%
 
@@ -7021,7 +7021,7 @@ QAA2.Người điều khiển xe cần giảm tốc độ và kiểm tra an toà
 QAA3.Bật đèn pha để nhìn người đi bộ và các phương tiện khác rõ hơn.
 QAA4.Điều khiển xe đổi từ làn số 1 sang làn số 2, tránh nhìn trực tiếp ánh đèn.
 QAA5.Trường hợp đèn pha xe đối diện quá sáng, không thể nhìn rõ phía trước thì người điều khiển xe cần điều khiển xe vượt qua thật nhanh.
-AAAKhi đang điều khiển xe với vận tốc 50km/giờ
+DDDKhi đang điều khiển xe với vận tốc 50km/giờ
 AAAĐáp án đúng : 2, 4
 %%%
 
@@ -7031,9 +7031,9 @@ QAA2.Xảy ra va chạm với xe tải ở đường ngược chiều đang đi 
 QAA3.Xảy ra va chạm với người đi bộ vừa xuống xe buýt thì chạy sang đường ngay trước mặt xe buýt.
 QAA4.Va chạm với người đợi xe buýt ở trạm xe.
 QAA5.Xảy ra va chạm giữa xe buýt đang dừng và xe tải đi hướng ngược chiều khi xe buýt xuất phát.
-AAAĐường mỗi chiều có 1 làn
-AAAXe buýt đang dừng ở bến
-AAAXe tải ở đường ngược chiều
+DDDĐường mỗi chiều có 1 làn
+DDDXe buýt đang dừng ở bến
+DDDXe tải ở đường ngược chiều
 AAAĐáp án đúng : 2, 3
 %%%
 
@@ -7043,10 +7043,10 @@ QAA2.Chỉ có thể rẽ trái khi tín hiệu đèn phía trước là mũi t�
 QAA3.Tốc độ giới hạn ở tất cả khu vực bảo vệ trẻ em là 50km/giờ.
 QAA4.Thứ tự đèn tín hiệu là đỏ - vàng - xanh - mũi tên xanh lá cây.
 QAA5.Nếu tín hiệu đèn phía trước là xanh thì có thể rẽ trái khi làn đường đối diện không có xe tiến đến.
-AAAKhu vực bảo vệ trẻ em
-AAAĐường hẹp hai bên trái, phải 
-AAABiển báo rẽ trái không được bảo vệ
-AAACamera bắt vượt tốc độ và vi phạm tín hiệu đèn
+DDDKhu vực bảo vệ trẻ em
+DDDĐường hẹp hai bên trái, phải 
+DDDBiển báo rẽ trái không được bảo vệ
+DDDCamera bắt vượt tốc độ và vi phạm tín hiệu đèn
 AAAĐáp án đúng : 1, 5
 %%%
 
@@ -7059,9 +7059,9 @@ QAA5.Tạm dừng ở trước vạch sang đường B rồi đi qua.
 
 %%%
 
-AAATình huống định đi thẳng ở đường giao nhau trong khu vực bảo vệ trẻ em
-AAAVạch sang đường và đường giao nhau không có tín hiệu đèn giao thông
-AAACó xe đang lùi trong gương chiếu hậu bên trong xe
+DDDTình huống định đi thẳng ở đường giao nhau trong khu vực bảo vệ trẻ em
+DDDVạch sang đường và đường giao nhau không có tín hiệu đèn giao thông
+DDDCó xe đang lùi trong gương chiếu hậu bên trong xe
 AAAĐáp án đúng : 3, 5
 %%%
 
@@ -7071,10 +7071,10 @@ QAA2.Trong số trẻ em xuống xe buýt có trẻ em đột ngột băng qua �
 QAA3.Xe đang giảm tốc độ thì có xe đằng sau đi theo.
 QAA4.Xe môtô hai bánh đang đi ngược chiều đằng sau xe buýt vượt lên đi qua xe buýt.
 QAA5.Xe ngược chiều đang đỗ đằng trước xe buýt bắt đầu đi.
-AAAXe buýt đưa đón trẻ đi học ngược chiều đang dừng 
-AAAPhía trước xe buýt có xe đang đỗ 
-AAATrẻ em đang xuống xe 
-AAACó xe đi ở đằng sau
+DDDXe buýt đưa đón trẻ đi học ngược chiều đang dừng 
+DDDPhía trước xe buýt có xe đang đỗ 
+DDDTrẻ em đang xuống xe 
+DDDCó xe đi ở đằng sau
 AAAĐáp án đúng : 2, 4
 %%%
 
@@ -7084,10 +7084,10 @@ QAA2.Xe mô tô hai bánh bị xe kéo hàng che khuất ở hướng ngược c
 QAA3.Đang định vượt lên thì xe kéo hàng đột ngột dừng lại tại vị trí đó.
 QAA4.Phía sau bên phải xe A có trẻ em đang đợi xe buýt của trường.
 QAA5.Xe ở phía bên trái ngược chiều xe A tiếp tục đỗ xe.
-AAAKhu vực bảo vệ trẻ em 
-AAATrước mặt bên phải có trẻ em đi xe đạp 
-AAAXe môtô hai bánh đi ngược chiều 
-AAATrước mặt bên trái có xe đang đỗ
+DDDKhu vực bảo vệ trẻ em 
+DDDTrước mặt bên phải có trẻ em đi xe đạp 
+DDDXe môtô hai bánh đi ngược chiều 
+DDDTrước mặt bên trái có xe đang đỗ
 AAAĐáp án đúng : 1, 2
 %%%
 
@@ -7097,8 +7097,8 @@ QAA2.Bật đèn báo hiệu nguy hiểm cho xe phía sau biết.
 QAA3.Nếu cho xe dừng lại thì xe sau có thể vượt lên nên cần giảm tốc độ và vượt qua.
 QAA4.Tạm dừng xe và giữ khoảng cách an toàn cho đến khi người đi bộ sang hẳn bên kia đường.
 QAA5.Điều khiển xe đổi sang làn số 2 và vượt qua.
-AAAKhu vực bảo hộ người cao tuổi
-AAACó người già sang đường không đúng quy định
+DDDKhu vực bảo hộ người cao tuổi
+DDDCó người già sang đường không đúng quy định
 AAAĐáp án đúng : 2, 4
 %%%
 
@@ -7108,8 +7108,8 @@ QAA2.Trẻ em đột ngột chạy ra từ phía trước xe ô tô con bên ph�
 QAA3.Ô tô con đang dừng ở bên phải có thể sẽ xuất phát.
 QAA4.Có thể va chạm với xe đi phía sau nếu giảm tốc độ.
 QAA5.Trẻ em đang chơi trên vỉa hè bên trái có thể băng ngang đường.
-AAACó trẻ em quanh khu vực bảo hộ trẻ em. 
-AAACó xe ô tô con đang dừng bên phải phía trước.
+DDDCó trẻ em quanh khu vực bảo hộ trẻ em. 
+DDDCó xe ô tô con đang dừng bên phải phía trước.
 AAAĐáp án đúng : 2, 5
 %%%
 
@@ -7119,8 +7119,8 @@ QAA2.Bật đèn trước thông báo cho lái xe buýt đưa đón trẻ, sau �
 QAA3.Nháy đèn khẩn cấp báo nguy hiểm cho xe sau, đồng thời tạm dừng xe.
 QAA4.Tạm dừng xe trước khi đến chỗ xe buýt đưa đón trẻ, sau đó di chuyển với tốc độ chậm.
 QAA5.Nháy đèn khẩn cấp báo hiệu nguy hiểm cho xe sau biết và vượt qua.
-AAAXe buýt đưa đón trẻ đi học đang dừng bên phải phía trước. 
-AAAXe buýt đưa đón trẻ đi học bật tín hiệu đèn màu đỏ.
+DDDXe buýt đưa đón trẻ đi học đang dừng bên phải phía trước. 
+DDDXe buýt đưa đón trẻ đi học bật tín hiệu đèn màu đỏ.
 AAAĐáp án đúng : 3, 4
 %%%
 
@@ -7130,9 +7130,9 @@ QAA2.Xe đi bên trái đường giảm tốc độ có thể đột ngột rẽ
 QAA3.Người đi bộ phía bên phải sau khi sang gần hết đường có thể đột ngột quay ngược lại.
 QAA4.Xe mô tô hai bánh đi bên phải phía sau xe có thể cùng lúc vượt qua đường giao nhau.
 QAA5.Xe đi ở đường bên trái giảm tốc độ có thể tiến vào đường giao nhau để rẽ trái.
-AAAChuẩn bị xuất phát 
-AAAĐèn đỏ ở đèn tín hiệu có 3 màu 
-AAAXe đi ở đường bên trái đang giảm tốc độ.
+DDDChuẩn bị xuất phát 
+DDDĐèn đỏ ở đèn tín hiệu có 3 màu 
+DDDXe đi ở đường bên trái đang giảm tốc độ.
 AAAĐáp án đúng : 3, 5
 %%%
 
@@ -7142,9 +7142,9 @@ QAA2.Xe ô tô con quay đầu không đúng quy định ở làn số 1 phía s
 QAA3.Xe tải đi trên làn số 1 phía trước đột ngột phanh gấp.
 QAA4.Xe ô tô con phía sau trên làn số 1 tăng tốc để đổi hướng vượt lên trước xe bạn.
 QAA5.Xe máy định rẽ trái phía sau xe.
-AAAĐiều khiển xe với vận tộc 40km/giờ 
-AAAĐèn tín hiệu 4 màu cho phép đi thẳng và rẽ trái cùng lúc
-AAALàn 1 rẽ trái, làn 2 đi thẳng
+DDDĐiều khiển xe với vận tộc 40km/giờ 
+DDDĐèn tín hiệu 4 màu cho phép đi thẳng và rẽ trái cùng lúc
+DDDLàn 1 rẽ trái, làn 2 đi thẳng
 AAAĐáp án đúng : 4, 5
 %%%
 
@@ -7154,10 +7154,10 @@ QAA2.Va chạm với xe đi ngược chiều.
 QAA3.Va chạm giữa người đi bộ và xe phía đối diện.
 QAA4.Va chạm với xe đi ở làn đường 2 phía sau.
 QAA5.Xe đi sau xe mình và xe đi ở làn số 2 xảy ra va chạm.
-AAAĐường mỗi chiều có 2 làn xe 
-AAAXe buýt phanh đột ngột 
-AAAĐèn xanh dành cho người đi bộ trước xe buýt 
-AAAXe đi bên phải đằng sau
+DDDĐường mỗi chiều có 2 làn xe 
+DDDXe buýt phanh đột ngột 
+DDDĐèn xanh dành cho người đi bộ trước xe buýt 
+DDDXe đi bên phải đằng sau
 AAAĐáp án đúng : 1, 4
 %%%
 
@@ -7167,8 +7167,8 @@ QAA2.Xảy ra va chạm với xe B đang rẽ phải từ đường bên trái.
 QAA3.Va chạm với xe mô tô hai bánh đi đằng sau.
 QAA4.Va chạm với xe D đã đi qua đường giao nhau trước.
 QAA5.Va chạm với xe E đi thẳng từ đường bên phải.
-AAAĐằng sau có xe môtô hai bánh đang đi 
-AAAĐường bên trái có xe rẽ phải
+DDDĐằng sau có xe môtô hai bánh đang đi 
+DDDĐường bên trái có xe rẽ phải
 AAAĐáp án đúng : 1, 5
 %%%
 
@@ -7178,10 +7178,10 @@ QAA2.Va chạm với xe đi ngược chiều.
 QAA3.Va chạm với xe mô tô hai bánh đi sau.
 QAA4.Va chạm với xe đi ngược chiều chuyển làn đường.
 QAA5.Va chạm với xe đi quá tốc độ từ đằng sau chạy lên tại làn số 1.
-AAAĐường có 2 làn xe mỗi chiều
-AAAXe trước phanh đột ngột
-AAAXe môtô hai bánh đằng sau bật xi nhan phải
-AAACó xe ô tô con đi ở làn 1 đằng sau
+DDDĐường có 2 làn xe mỗi chiều
+DDDXe trước phanh đột ngột
+DDDXe môtô hai bánh đằng sau bật xi nhan phải
+DDDCó xe ô tô con đi ở làn 1 đằng sau
 AAAĐáp án đúng : 1, 5
 %%%
 
@@ -7191,8 +7191,8 @@ QAA2.Vì đây là đường giao nhau ưu tiên xe khẩn cấp lưu thông nê
 QAA3.Vì xe đang ở làn đường số 2 có thể đột ngột đổi làn đường sang bên trái nên phải giảm tốc độ vừa đủ trước.
 QAA4.Tín hiệu đèn giao thông của xe được ưu tiên hơn xe khẩn cấp nên cứ thế tiến vào.
 QAA5.Tăng tốc để có thể vượt qua trước xe khẩn cấp rồi tiến vào.
-AAAĐường 3 làn xe một chiều
-AAATình huống có xe khẩn cấp của cảnh sát (có bật đèn báo, còi báo)
+DDDĐường 3 làn xe một chiều
+DDDTình huống có xe khẩn cấp của cảnh sát (có bật đèn báo, còi báo)
 AAAĐáp án đúng : 2, 3
 %%%
 
@@ -7202,7 +7202,7 @@ QAA2.Có công trường thi công phía trước, nếu đột ngột giảm t�
 QAA3.Trường hợp bất khả kháng phải vượt qua vạch kẻ tâm đường để tránh công trường đang thi công ở phía trước thì cần kiểm tra tình hình giao thông ở phía đối diện trước rồi đi.
 QAA4.Xe phục vụ công trường thi công có thể đột ngột xuất phát nên quan sát kỹ rồi từ từ lái xe.
 QAA5.Xe theo sau đang muốn vượt lên, cần nhanh chóng lấn vạch phân cách giữa đường để đi trước.
-AAACó xe chạy đằng sau
+DDDCó xe chạy đằng sau
 AAAĐáp án đúng : 3, 4
 %%%
 
@@ -7212,9 +7212,9 @@ QAA2.Xe ô tô khách đang đỗ ở bãi đỗ xe bên phải.
 QAA3.Xe ô tô con đang đỗ ở bãi đỗ xe bên phải xuất phát đột ngột.
 QAA4.Người đi bộ đi từ bãi đỗ xe bên phải vào tòa nhà.
 QAA5.Trẻ em chạy ra từ ngõ nhỏ bên trái.
-AAABãi đỗ xe bên phải 
-AAANgõ bên trái 
-AAAXe đạp đằng sau
+DDDBãi đỗ xe bên phải 
+DDDNgõ bên trái 
+DDDXe đạp đằng sau
 AAAĐáp án đúng : 3, 5 
 %%%
 
@@ -7224,9 +7224,9 @@ QAA2.Xe đạp đột ngột đi sang đường ngược chiều, nên đi nhanh
 QAA3.Xe đạp có thể tạm dừng, nên cứ thế đi qua.
 QAA4.Tạm dừng và chú ý chuyển động của xe đạp, xác định an toàn rồi mới đi tiếp.
 QAA5.Đề phòng việc xe sau lấn sang vạch phân cách giữa đường vượt lên trước xe mình.
-AAAMỗi chiều một làn xe
-AAAXe đạp đi ngược chiều
-AAAXe ô tô con ở kính chiếu hậu
+DDDMỗi chiều một làn xe
+DDDXe đạp đi ngược chiều
+DDDXe ô tô con ở kính chiếu hậu
 AAAĐáp án đúng : 1, 4
 %%%
 
@@ -7236,8 +7236,8 @@ QAA2.Tăng tốc giảm khoảng cách với xe đi trước để người đi 
 QAA3.Cần chú ý đến xe đi trước gần đến đường dành cho người đi bộ hơn là xe đạp.
 QAA4.Giảm tốc để người đi xe đạp có thể sang đường và chú ý chuyển động của xe đạp.
 QAA5.Xe trước có thể phanh gấp để tránh người đi bộ nên đạp phanh nhiều lần để báo hiệu cho xe sau.
-AAAPhía trước là đường dành cho người đi bộ
-AAANgười đi xe đạp đang ngoảnh đầu
+DDDPhía trước là đường dành cho người đi bộ
+DDDNgười đi xe đạp đang ngoảnh đầu
 AAAĐáp án đúng : 4, 5
 %%%
 
@@ -7247,9 +7247,9 @@ QAA2.Xác định an toàn bên cạnh và phía sau xe, và chú ý góc nhìn.
 QAA3.Xe tải có thể dừng lại bất ngờ, nên đi về phía bên tay trái xe chở hàng rồi rẽ phải.
 QAA4.Xe đạp không biết có ô tô ở đằng sau, nên tiếp tục bấm còi báo hiệu.
 QAA5.Đèn tín hiệu sắp thay đổi nên tăng tốc bám theo xe tải.
-AAAĐường giao nhau hình (+)
-AAAĐèn tín hiệu chuyển từ màu vàng sang đỏ
-AAAĐường dành riêng cho người đi xe đạp
+DDDĐường giao nhau hình (+)
+DDDĐèn tín hiệu chuyển từ màu vàng sang đỏ
+DDDĐường dành riêng cho người đi xe đạp
 AAAĐáp án đúng : 1, 2
 %%%
 
@@ -7259,10 +7259,10 @@ QAA2.Người đi bộ có thể xuất hiện từ giữa các xe đang đỗ �
 QAA3.Kiểm tra tình hình lưu thông bằng gương chiếu hậu bên trái.
 QAA4.Khi đi qua bên cạnh xe buýt cỡ lớn phải chú ý đi chậm.
 QAA5.Sau khi một vài xe đạp đã băng qua đường vẫn có thể xuất hiện thêm xe đạp đi theo phía sau.
-AAAĐường dân cư không phân cách lề đường và lòng đường
-AAAXe buýt cỡ lớn đang đỗ xe
-AAAĐang đỗ xe trong khu vực đỗ xe ưu tiên cho cư dân
-AAANgười điều khiển xe đạp đang băng qua đường
+DDDĐường dân cư không phân cách lề đường và lòng đường
+DDDXe buýt cỡ lớn đang đỗ xe
+DDDĐang đỗ xe trong khu vực đỗ xe ưu tiên cho cư dân
+DDDNgười điều khiển xe đạp đang băng qua đường
 AAAĐáp án đúng : 2, 5
 %%%
 
@@ -7272,8 +7272,8 @@ QAA2.Xảy ra va chạm với xe đang rẽ phải trên làn số 1.
 QAA3.Xe mô tô 2 bánh đang chạy trên làn 3 đột ngột chuyển sang làn 2.
 QAA4.Có thể xảy ra va chạm với xe đang rẽ phải trên làn số 3.
 QAA5.Xe đi phía sau có thể chuyển làn không đúng quy định.
-AAAĐến gần đường giao nhau khi đèn tín hiệu đang là màu xanh.
-AAACó các xe đang chờ rẽ trái trên làn xe số 1.
+DDDĐến gần đường giao nhau khi đèn tín hiệu đang là màu xanh.
+DDDCó các xe đang chờ rẽ trái trên làn xe số 1.
 AAAĐáp án đúng : 1, 3
 %%%
 
@@ -7283,9 +7283,9 @@ QAA2.Bật đèn pha trước để cảnh báo không cho xe ô tô chở ngư�
 QAA3.Xe máy nông nghiệp có thể tiến vào đường nên nhanh chóng đổi sang làn đường số 1.
 QAA4.Vì là đường lên dốc nên tăng tốc.
 QAA5.Xe hai bánh phía trước có thể đổi sang làn đường số 1 nên duy trì khoảng cách an toàn.
-AAAĐường đồi núi cong về bên trái
-AAACó xe hai bánh đang lưu thông phía trước
-AAAXe máy nông nghiệp định tiến vào đường
+DDDĐường đồi núi cong về bên trái
+DDDCó xe hai bánh đang lưu thông phía trước
+DDDXe máy nông nghiệp định tiến vào đường
 AAAĐáp án đúng : 1, 5
 %%%
 
@@ -7295,7 +7295,7 @@ QAA2.Giảm tốc độ và dừng xe khi có xe đạp đi đến từ đườn
 QAA3.Tăng tốc vượt qua đường giao nhau thì xe đạp mới dừng lại.
 QAA4.Tạm dừng xe, đề phòng nguy hiểm vì không thấy được bên phải đường.
 QAA5.Bật đèn khẩn cấp khi vượt qua đường giao nhau đề phòng tai nạn với xe đạp.
-AAAĐiều khiển xe với vận tốc 30km/giờ
+DDDĐiều khiển xe với vận tốc 30km/giờ
 AAAĐáp án đúng : 2, 4
 %%%
 
@@ -7305,7 +7305,7 @@ QAA2.Nhanh chóng vượt lên do phía đối diện có xe đang đi tới.
 QAA3.Khi bắt buộc phải vượt qua vạch phân cách giữa đường, cần bật tín hiệu còi hoặc đèn trước để báo cho xe khác biết.
 QAA4.Điều khiển xe sát lề đường bên trái vạch phân cách giữa đường do xe đạp phía trước cũng có thể cùng vượt qua vạch phân cách giữa đường.
 QAA5.Giảm tốc độ, điều khiển xe vượt qua vạch phân cách giữa đường để mở rộng tầm nhìn đang bị xe chuyển hàng đỗ phía trước chắn mất.
-AAAĐang điều khiển xe với vận tốc 30km/giờ.
+DDDĐang điều khiển xe với vận tốc 30km/giờ.
 AAAĐáp án đúng : 1, 3
 %%%
 
@@ -7315,8 +7315,8 @@ QAA2.Vì người điều khiển xe đạp khác đang băng qua đường nên
 QAA3.Vì có khả năng va chạm với xe đạp khác nên xuống xe và chờ ở nơi an toàn trên vỉa hè (lề đường).
 QAA4.Nếu người điều khiển xe đạp là trẻ em hoặc người cao tuổi thì lái xe băng qua đường khi đèn giao thông của người đi bộ bật xanh.
 QAA5.Dắt xe đạp băng qua đường khi đèn giao thông ở vạch sang đường bật xanh.
-AAATình huống người điều khiển xe đạp đang chờ trên vỉa hè (lề đường)
-AAATình huống người điều khiển xe đạp đang nhìn đường
+DDDTình huống người điều khiển xe đạp đang chờ trên vỉa hè (lề đường)
+DDDTình huống người điều khiển xe đạp đang nhìn đường
 AAAĐáp án đúng : 3, 5
 %%%
 
@@ -7326,9 +7326,9 @@ QAA2.Trường hợp định đi thẳng, vì không có xe ở đường giao n
 QAA3.Tạm dừng trước khi tiến vào đường giao nhau và phải kiểm tra xe đang tiến đến ở hai bên trái phải.
 QAA4.Liên tục nhấn còi để thông báo có xe đi qua cho người đi bộ và xe đạp xung quanh.
 QAA5.Phải bám sát bên phải để hướng người đi bộ phía trước đi sát vào mép đường.
-AAA1 làn đường một chiều
-AAACác xe đỗ xe trái phép
-AAAĐường không phân cách lề đường và lòng đường
+DDD1 làn đường một chiều
+DDDCác xe đỗ xe trái phép
+DDDĐường không phân cách lề đường và lòng đường
 AAAĐáp án đúng : 1, 3
 %%%
 
@@ -7338,8 +7338,8 @@ QAA2.Dắt kickboard điện đi vào vạch sang đường A, sau đó chờ t�
 QAA3.Điều khiển Kickboard điện rẽ trái về hướng trung tâm của đường giao nhau để đi về hướng E.
 QAA4.Điều khiển Kickboard điện đi thẳng đến điểm B, sau đó chờ đèn chỉ hướng D bật xanh.
 QAA5.Điều khiển kickboard điện đi thẳng đến điểm C, sau đó ngay lập tức đi thẳng về hướng D tại điểm B.
-AAAĐèn tín hiệu hướng Tây tại hướng Đông: đèn tín hiệu đi thẳng và rẽ trái
-AAAĐèn giao thông của vạch sang đường dành cho người đi bộ A phía Tây ở hướng Đông đang là màu xanh lá cây
+DDDĐèn tín hiệu hướng Tây tại hướng Đông: đèn tín hiệu đi thẳng và rẽ trái
+DDDĐèn giao thông của vạch sang đường dành cho người đi bộ A phía Tây ở hướng Đông đang là màu xanh lá cây
 AAAĐáp án đúng : 2, 4
 %%%
 
