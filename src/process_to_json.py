@@ -3,49 +3,40 @@ import pymongo
 import re
 
 if __name__ == "__main__":
-    myclient = pymongo.MongoClient("mongodb://root:example@localhost:27017/")
-    mydb = myclient["driver"]
-    mycol = mydb["test"]
+    my_client = pymongo.MongoClient("mongodb://localhost:27017/")
+    my_db = my_client["driver"]
+    my_col = my_db["test"]
+    question_head = "QQQ"
+    answer_head = "QAA"
+    correct_answer = "AAA"
+    end_line_head = "%%%"
+    my_dict = {}
 
-    #       {
-    #         "question": {
-    #           "id": 1,
-    #           "text": "asdf",
-    #           "type": "questionType",
-    #           "media": ""
-    #         },
-    #         "answerList": [
-    #           {
-    #             "id": 1,
-    #             "text": "D"
-    #           },
-
-    mydict = {
-    }
-
-    with open("../question_short.txt", "r") as file:
+    with open("../question_short.txt", "r", encoding="utf8") as file:
         for line in file:
-            if 'QQQ' in line:
-                mydict["question"] = {
+            if "\n" in line:
+                line = line.replace('\n', '')
+
+            if question_head in line:
+                my_dict["question"] = {
                     "id": 1,
-                    "text": line,
+                    "text": line.replace(question_head, ''),
                     "type": "Sentence type 1 answer",
                     "media": ""
                 }
-            elif 'AAA' in line:
-                if not isinstance(mydict["answerList"], list):
-                    mydict["answerList"] = []
+            elif answer_head in line:
+                if "answerList" not in my_dict:
+                    my_dict["answerList"] = []
 
-                mydict["answerList"].append({
-                    "id": len(mydict["answerList"]),
-                    "text": line
+                my_dict["answerList"].append({
+                    "id": len(my_dict["answerList"]),
+                    "text": line.replace(answer_head, '')
                 })
-            elif 'DDD' in line:
+            elif 'AAA' in line:
                 # x = mycol.insert_one(mydict)
-                # mydict = {}
-            elif '%%%' in line:
+                my_dict["correctAnswer"] = line.replace(correct_answer, '')
+            elif "%%%" in line:
                 # x = mycol.insert_one(mydict)
                 # mydict = {}
 
                 print("aaaa")
-

@@ -1,39 +1,39 @@
 QQQ1. Nội dung nào dưới đây không phải là giấy phép lái xe cần thiết khi điều khiển xe tải chở hàng 4,5 tấn kéo xe ô tô chở người có trọng tải 1,5 tấn?
-A1.Giấy phép lái xe cỡ lớn hạng 1 và giấy phép lái xe đầu kéo cỡ nhỏ
-A2.Giấy phép lái xe phổ thông hạng 1 và giấy phép lái xe đầu kéo cỡ lớn
-A3.Giấy phép lái xe phổ thông hạng 1 và giấy phép lái xe đầu kéo cỡ nhỏ
-A4.Giấy phép lái xe phổ thông hạng 2 và giấy phép lái xe đầu kéo cỡ lớn
-■ Đáp án đúng : 4
+QAA1.Giấy phép lái xe cỡ lớn hạng 1 và giấy phép lái xe đầu kéo cỡ nhỏ
+QAA2.Giấy phép lái xe phổ thông hạng 1 và giấy phép lái xe đầu kéo cỡ lớn
+QAA3.Giấy phép lái xe phổ thông hạng 1 và giấy phép lái xe đầu kéo cỡ nhỏ
+QAA4.Giấy phép lái xe phổ thông hạng 2 và giấy phép lái xe đầu kéo cỡ lớn
+AAAĐáp án đúng : 4
 %%%
 
 QQQ2. Nội dung nào là giải thích không đúng về cấp Giấy phép lái xe theo Pháp lệnh Giao thông đường bộ?
-A1.Giấy phép lái xe phải được cấp trong vòng 30 ngày kể từ ngày đỗ Kỳ thi sát hạch bằng lái xe.
-A2.Không thể cấp Giấy phép lái xe bằng tiếng Anh. 
-A3.Có thể cấp Giấy phép lái xe trên điện thoại.
-A4.Nếu bị mất Giấy phép lái xe, có thể xin cấp lại.
-■ Đáp án đúng : 2
+QAA1.Giấy phép lái xe phải được cấp trong vòng 30 ngày kể từ ngày đỗ Kỳ thi sát hạch bằng lái xe.
+QAA2.Không thể cấp Giấy phép lái xe bằng tiếng Anh. 
+QAA3.Có thể cấp Giấy phép lái xe trên điện thoại.
+QAA4.Nếu bị mất Giấy phép lái xe, có thể xin cấp lại.
+AAAĐáp án đúng : 2
 %%%
 
 QQQ3. Giấy phép lái xe quốc tế do Giám đốc Sở cảnh sát tỉnh - thành phố cấp có hiệu lực mấy năm kể từ ngày cấp?
-A1.1 năm
-A2.2 năm
-A3.3 năm
-A4.4 năm
-■ Đáp án đúng : 1
+QAA1.1 năm
+QAA2.2 năm
+QAA3.3 năm
+QAA4.4 năm
+AAAĐáp án đúng : 1
 %%%
 
 QQQ4. Nội dung nào sau đây đúng với điều kiện cần thiết khi lần đầu tiên lái xe cứu trợ khẩn cấp cỡ lớn 15 chỗ theo Luật Giao thông đường bộ?
-A1.Giấy phép lái xe phổ thông hạng 1 và 3 tiếng đào tạo về an toàn giao thông
-A2.Giấy phép lái xe chuyên dụng hạng 1 (xe kéo cỡ lớn) và 2 tiếng đào tạo về an toàn giao thông
-A3.Giấy phép lái xe chuyên dụng hạng 1 (xe cứu hộ cứu nạn) và 2 tiếng đào tạo về an toàn giao thông
-A4.Giấy phép lái xe phổ thông hạng 2 và 3 tiếng đào tạo về an toàn giao thông
-■ Đáp án đúng : 1
+QAA1.Giấy phép lái xe phổ thông hạng 1 và 3 tiếng đào tạo về an toàn giao thông
+QAA2.Giấy phép lái xe chuyên dụng hạng 1 (xe kéo cỡ lớn) và 2 tiếng đào tạo về an toàn giao thông
+QAA3.Giấy phép lái xe chuyên dụng hạng 1 (xe cứu hộ cứu nạn) và 2 tiếng đào tạo về an toàn giao thông
+QAA4.Giấy phép lái xe phổ thông hạng 2 và 3 tiếng đào tạo về an toàn giao thông
+AAAĐáp án đúng : 1
 %%%
 
 QQQ5. Thời hạn hiệu lực của giấy phép tập lái xe theo Luật Giao thông đường bộ?
-A1.6 tháng kể từ ngày nhận
-A2.1 năm kể từ ngày nhận
-A3.2 năm kể từ ngày nhận
-A4.3 năm kể từ ngày nhận
-■ Đáp án đúng : 2
+QAA1.6 tháng kể từ ngày nhận
+QAA2.1 năm kể từ ngày nhận
+QAA3.2 năm kể từ ngày nhận
+QAA4.3 năm kể từ ngày nhận
+AAAĐáp án đúng : 2
 %%%
