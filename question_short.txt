@@ -37,3 +37,16 @@ QAA3.2 năm kể từ ngày nhận
 QAA4.3 năm kể từ ngày nhận
 AAAĐáp án đúng : 2
 %%%
+
+QQQ849. Khi định chuyển sang làn 2 thì thấy xe buýt đột ngột giảm tốc độ. 2 yếu tố có khả năng gây tai nạn cao nhất là gì?
+QAA1.Va chạm với người đi bộ đang đi qua bên phải - trái trên vạch đi bộ qua đường.
+QAA2.Va chạm với xe đi ngược chiều.
+QAA3.Va chạm giữa người đi bộ và xe phía đối diện.
+QAA4.Va chạm với xe đi ở làn đường 2 phía sau.
+QAA5.Xe đi sau xe mình và xe đi ở làn số 2 xảy ra va chạm.
+DDDĐường mỗi chiều có 2 làn xe
+DDDXe buýt phanh đột ngột
+DDDĐèn xanh dành cho người đi bộ trước xe buýt
+DDDXe đi bên phải đằng sau
+AAAĐáp án đúng : 1, 4
+%%%
